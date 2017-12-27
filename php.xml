@@ -9,11 +9,6 @@
       <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" timeout="30000" tool_path="C:\PHP\phpcs.bat" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="C:\PHP\php.exe" id="95d521b2-bd0b-447c-8f07-ec7ed19f29d8" name="PHP 7" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7">
