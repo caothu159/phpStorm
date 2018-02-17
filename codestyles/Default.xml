@@ -19,6 +19,7 @@
     <option name="SPACE_BETWEEN_TERNARY_QUEST_AND_COLON" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
     <option name="RETURN_TYPE_ON_NEW_LINE" value="true" />
+    <option name="PHPDOC_USE_FQCN" value="true" />
     <option name="IF_RPAREN_ON_NEXT_LINE" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
