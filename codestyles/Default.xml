@@ -23,6 +23,8 @@
   </PHPCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_WHITESPACES" value="true" />
+    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+    <option name="XML_KEEP_WHITE_SPACES_INSIDE_CDATA" value="true" />
   </XML>
   <codeStyleSettings language="JSON">
     <indentOptions>
